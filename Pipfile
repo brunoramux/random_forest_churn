@@ -13,6 +13,7 @@ shap = "*"
 ipywidgets = "*"
 nbformat = "*"
 numpy = "==2.0.0"
+matplotlib = "*"
 
 [dev-packages]
 
